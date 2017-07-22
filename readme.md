@@ -1,5 +1,5 @@
 ## Payscout inc. Payment gateway (Your Guide to Payment Transactions)
-----------------------------------------------------------------------------------
+   ----------------------------------------------------------------------------------
 
 
 ### Installation Steps
@@ -35,6 +35,7 @@
 
 
 ### Support
+
 Email: support@payscout.com, victor@payscout.com
 Telephone : 1-888-689-6088 (TOLL FREE)
 
