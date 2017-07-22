@@ -1,18 +1,8 @@
-Payscout inc. Payment gateway (Your Guide to Payment Transactions)
------------------------------------------------------------
-
-Note:  Compatible with OpenCart 1.4.x and above
-
-Customer Support: victor@payscout.com, support@payscout.com
-
-Phone Support : 1-888-689-6088 (TOLL FREE)
-
-(24X7 Email and Phone Support)
+## Payscout inc. Payment gateway (Your Guide to Payment Transactions)
+----------------------------------------------------------------------------------
 
 
-
-
-Please follow Installation steps:
+### Installation Steps
 
 1. Upload the contents of module to the root of your OpenCart installation. 
 
@@ -24,7 +14,13 @@ Please follow Installation steps:
  
 5. Select "Install" next to "Payscout Inc."
 
+![save_config][img1]
+
+
+
 6. Click on Edit infront of "Payscout Inc.".  
+
+![save_config][img2]
 
 7. Enter your payscout API Username, API Password, API Token.
 
@@ -35,3 +31,12 @@ Please follow Installation steps:
 10. Set the Denied Status to the status that you require the order to be set to if the payment is declined.
 
 11. Set the Failed Status to the status that you require the order to be set to if the payment fails.
+
+
+
+### Support
+Email: support@payscout.com, victor@payscout.com
+Telephone : 1-888-689-6088 (TOLL FREE)
+
+[img1]: https://github.com/payscout/opencart/blob/master/screenshot/1.png
+[img1]: https://github.com/payscout/opencart/blob/master/screenshot/2.png
